@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Data and Business Analytics</title>
-    <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deep-learning/</link>
+    <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deep-learning/</link>
     <description>Recent content in Deep Learning on Data and Business Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Urban-Sound-Classification</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-7/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-7/</link>
       <pubDate>Wed, 20 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-7/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-7/</guid>
       <description>About the Challenge The Urban Sound Challenge is a classification contest provided by Vidhya Analytics with the purpose of introducing curious people to a real-world classification problem.</description>
     </item>
     
     <item>
       <title>Image-Classification-using-Keras</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-8/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-8/</link>
       <pubDate>Tue, 10 Mar 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-8/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-8/</guid>
       <description>Dataset Information : ❏ This dataset contains links to images of women&amp;rsquo;s dresses.</description>
     </item>
     

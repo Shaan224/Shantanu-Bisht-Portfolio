@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Deployed Model on Data and Business Analytics</title>
-    <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deployed-model/</link>
+    <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deployed-model/</link>
     <description>Recent content in  Deployed Model on Data and Business Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deployed-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deployed-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movie Recommendation System</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</link>
       <pubDate>Sat, 12 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</guid>
       <description>Tools And Technologies  NLTK libraries Is used for text wrangling and preprocessing of the reviews.</description>
     </item>
     
     <item>
       <title>Spam Classification for Text Messages</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</link>
       <pubDate>Fri, 12 Jun 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</guid>
       <description>Tools And Technologies  NLTK libraries - Is used for text wrangling and preprocessing of the reviews.</description>
     </item>
     

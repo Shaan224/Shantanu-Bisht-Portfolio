@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dashboards on Data and Business Analytics</title>
-    <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/dashboards/</link>
+    <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/dashboards/</link>
     <description>Recent content in Dashboards on Data and Business Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/dashboards/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/dashboards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of Consumer Purchase Behaviour Using Tableau</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/purchase-behaviour/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/purchase-behaviour/</link>
       <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/purchase-behaviour/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/purchase-behaviour/</guid>
       <description>Project Details Interactive Dashboard to analyze the purchase behaviour of consumers.</description>
     </item>
     
     <item>
       <title>Dashboard</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/revenue-profit-dashboard/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/revenue-profit-dashboard/</link>
       <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/revenue-profit-dashboard/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/revenue-profit-dashboard/</guid>
       <description>Project Details An interactive Dashboard created in Tableau to track the Revenue and Profit KPI on Big Mart Sales data.</description>
     </item>
     
     <item>
       <title>Tableau Dashboard for Campaign Tracking</title>
-      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/campaign-tracking/</link>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/campaign-tracking/</link>
       <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/campaign-tracking/</guid>
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/campaign-tracking/</guid>
       <description>Project Details An interactive dashboard built in Tableau to track Marketing Campaigns.</description>
     </item>
     
