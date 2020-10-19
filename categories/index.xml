@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Data and Business Analytics</title>
+    <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/</link>
+    <description>Recent content in Categories on Data and Business Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboards</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/dashboards/</link>
+      <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/dashboards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Deployed Model</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deployed-model/</link>
+      <pubDate>Sat, 12 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deployed-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/machine-learning/</link>
+      <pubDate>Sat, 12 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/nlp/</link>
+      <pubDate>Fri, 12 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deep-learning/</link>
+      <pubDate>Wed, 20 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/web-scraping/</link>
+      <pubDate>Thu, 07 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/categories/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

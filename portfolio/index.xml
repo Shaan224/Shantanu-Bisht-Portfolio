@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Data and Business Analytics</title>
+    <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/</link>
+    <description>Recent content in Portfolio on Data and Business Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Consumer Purchase Behaviour Using Tableau</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/purchase-behaviour/</link>
+      <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/purchase-behaviour/</guid>
+      <description>Project Details Interactive Dashboard to analyze the purchase behaviour of consumers.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/revenue-profit-dashboard/</link>
+      <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/revenue-profit-dashboard/</guid>
+      <description>Project Details An interactive Dashboard created in Tableau to track the Revenue and Profit KPI on Big Mart Sales data.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard for Campaign Tracking</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/campaign-tracking/</link>
+      <pubDate>Fri, 25 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/campaign-tracking/</guid>
+      <description>Project Details An interactive dashboard built in Tableau to track Marketing Campaigns.</description>
+    </item>
+    
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</link>
+      <pubDate>Sat, 12 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</guid>
+      <description>Tools And Technologies  NLTK libraries Is used for text wrangling and preprocessing of the reviews.</description>
+    </item>
+    
+    <item>
+      <title>Spam Classification for Text Messages</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</link>
+      <pubDate>Fri, 12 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</guid>
+      <description>Tools And Technologies  NLTK libraries - Is used for text wrangling and preprocessing of the reviews.</description>
+    </item>
+    
+    <item>
+      <title>Urban-Sound-Classification</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-7/</link>
+      <pubDate>Wed, 20 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-7/</guid>
+      <description>About the Challenge The Urban Sound Challenge is a classification contest provided by Vidhya Analytics with the purpose of introducing curious people to a real-world classification problem.</description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling on Amazon Product Reviews</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/amazon-topic-modeling/</link>
+      <pubDate>Thu, 07 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/amazon-topic-modeling/</guid>
+      <description>Tools And Technologies  NLTK libraries - Is used for text wrangling and preprocessing of the reviews.</description>
+    </item>
+    
+    <item>
+      <title>Image-Classification-using-Keras</title>
+      <link>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-8/</link>
+      <pubDate>Tue, 10 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://Shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/project-8/</guid>
+      <description>Dataset Information : ❏ This dataset contains links to images of women&amp;rsquo;s dresses.</description>
+    </item>
+    
+  </channel>
+</rss>
