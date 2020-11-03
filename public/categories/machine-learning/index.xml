@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Data and Business Analytics</title>
+    <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on Data and Business Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://shaan224.github.io/Shantanu-Bisht-Portfolio/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</link>
+      <pubDate>Sat, 12 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/movie-recommendation-system/</guid>
+      <description>Tools And Technologies  NLTK libraries Is used for text wrangling and preprocessing of the reviews.</description>
+    </item>
+    
+    <item>
+      <title>Spam Classification for Text Messages</title>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</link>
+      <pubDate>Fri, 12 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/sentiment-analysis/</guid>
+      <description>Tools And Technologies  NLTK libraries - Is used for text wrangling and preprocessing of the reviews.</description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling on Amazon Product Reviews</title>
+      <link>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/amazon-topic-modeling/</link>
+      <pubDate>Thu, 07 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://shaan224.github.io/Shantanu-Bisht-Portfolio/portfolio/amazon-topic-modeling/</guid>
+      <description>Tools And Technologies  NLTK libraries - Is used for text wrangling and preprocessing of the reviews.</description>
+    </item>
+    
+  </channel>
+</rss>
